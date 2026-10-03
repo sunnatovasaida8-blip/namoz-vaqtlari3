@@ -12,8 +12,8 @@ app = Flask(__name__)
 def home():
     return "Bot 24/7 faol ishlamoqda!"
 
-TOKEN = "8981237576:AAGaSmGul81AH7oKz5aKGYH1Aay0r-Jebig"
-bot = TeleBot(TOKEN)
+TOKEN = "8981237576:AAFrDCjeImvQepkee2Amozv3YeLlH8_P5dc"
+
 
 LOCATIONS = {
     "Pastdarg'om": {"lat": 39.560, "lng": 66.690},
