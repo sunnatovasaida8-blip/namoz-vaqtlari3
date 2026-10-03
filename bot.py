@@ -17,7 +17,7 @@ def keep_alive():
     t = Thread(target=run)
     t.start()
 
-TOKEN = "8981237576:AAFrDCjeImvQepkee2Amozv3YeLlH8_P5dc"
+TOKEN = "8981237576:AAGa-nmixN3s3f5EUyKCC2QLnPfyipbZrs0"
 bot = TeleBot(TOKEN)
 
 JOYLAR = {
